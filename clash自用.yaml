@@ -224,8 +224,8 @@ rule-providers:
   StreamingSE:
     type: http
     behavior: classical
-    path: ./RuleSet/StreamingMedia/StreamingSE.yaml
-    url: https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
+    path: ./Bilibili.yml
+    url: https://raw.githubusercontent.com/ijglb/MyConfig/master/Clash/Bilibili.yml
     interval: 86400
 
   Global:
